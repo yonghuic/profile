@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/profile/static/css/main.9dfdbd84.css",
+    "main.js": "/profile/static/js/main.cc3f5aaa.js",
+    "static/media/nishiki-teki-2.ttf": "/profile/static/media/nishiki-teki-2.283e0b9442a0338edc91.ttf",
+    "static/media/workBurger.PNG": "/profile/static/media/workBurger.82ff1535cb26c2c6e403.PNG",
+    "static/media/workRentdapp.PNG": "/profile/static/media/workRentdapp.cda74f48687573ebd501.PNG",
+    "static/media/履歷.pdf": "/profile/static/media/履歷.f4debacd56f01b33ffaa.pdf",
+    "static/media/workPMIS.PNG": "/profile/static/media/workPMIS.05442b14eba1fafc61d7.PNG",
+    "static/media/bootstrap.png": "/profile/static/media/bootstrap.cb1aa7ebab86974f5bb0.png",
+    "static/media/python.png": "/profile/static/media/python.551ac44a0a63f77ec065.png",
+    "static/media/react.png": "/profile/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/logo.png": "/profile/static/media/logo.4839c4409a4dc7da355a.png",
+    "static/media/node.png": "/profile/static/media/node.952a9ea986dcfa5229ad.png",
+    "static/media/mongo.png": "/profile/static/media/mongo.2a1528ddc31d4ce8518d.png",
+    "static/media/copyicon.png": "/profile/static/media/copyicon.2a88683c86c452e94bb5.png",
+    "static/media/tailwind.png": "/profile/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "index.html": "/profile/index.html",
+    "main.9dfdbd84.css.map": "/profile/static/css/main.9dfdbd84.css.map",
+    "main.cc3f5aaa.js.map": "/profile/static/js/main.cc3f5aaa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9dfdbd84.css",
+    "static/js/main.cc3f5aaa.js"
+  ]
+}
