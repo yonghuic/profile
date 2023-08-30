@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/profile/static/css/main.9dfdbd84.css",
-    "main.js": "/profile/static/js/main.cc3f5aaa.js",
+    "main.js": "/profile/static/js/main.c5e53710.js",
     "static/media/nishiki-teki-2.ttf": "/profile/static/media/nishiki-teki-2.283e0b9442a0338edc91.ttf",
     "static/media/workBurger.PNG": "/profile/static/media/workBurger.82ff1535cb26c2c6e403.PNG",
     "static/media/workRentdapp.PNG": "/profile/static/media/workRentdapp.cda74f48687573ebd501.PNG",
@@ -17,10 +17,10 @@
     "static/media/tailwind.png": "/profile/static/media/tailwind.e47ac876b8d4d0bba47a.png",
     "index.html": "/profile/index.html",
     "main.9dfdbd84.css.map": "/profile/static/css/main.9dfdbd84.css.map",
-    "main.cc3f5aaa.js.map": "/profile/static/js/main.cc3f5aaa.js.map"
+    "main.c5e53710.js.map": "/profile/static/js/main.c5e53710.js.map"
   },
   "entrypoints": [
     "static/css/main.9dfdbd84.css",
-    "static/js/main.cc3f5aaa.js"
+    "static/js/main.c5e53710.js"
   ]
 }
